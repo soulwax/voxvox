@@ -1,0 +1,12 @@
+name: voxvox
+description: Pure Dart voxel chunk storage, greedy meshing, 3D DDA fast raymarching, ambient occlusion, and destructible voxel terrain.
+version: 0.1.0
+repository: https://github.com/soulwax/voxvox
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0

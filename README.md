@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxvox logo"/>
+</p>
+
 # voxvox
 
 Pure Dart high-performance voxel engine library featuring chunk storage, greedy meshing with vertex ambient occlusion, 3D Amanatides-Woo DDA raymarching, and destructible terrain tools.
